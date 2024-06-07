@@ -1,4 +1,4 @@
-# Mobile E-commerce App for On-the-Go Shopping
+# Mobile E-commerce App
 
 ---
 

@@ -1,7 +1,3 @@
-| Author | Date | Version |
-|--------|------|---------|
-| Carlos Benedict Natanauan | April 18, 2024 | v2.0.0 |
-
 # Mobile E-commerce App for On-the-Go Shopping
 
 ---
@@ -34,7 +30,7 @@ This mobile app serves as a user-friendly extension of existing e-commerce websi
 ![2 carousel and webviewpage](https://github.com/CarlosNatanauan/Mobile-Mobile-E-commerce-App/assets/94023674/64eb3008-339e-48b5-a4ae-cb8b94fd7bad)
 
 
-- The carousel features three images related to the website and a button that redirects to the Ciscorp website.
+- The carousel features three images related to the website and a button that redirects to the client's website.
   
 #### Sorting and Searching
 
